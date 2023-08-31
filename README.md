@@ -1,1 +1,0 @@
-Shell Premission readme file
